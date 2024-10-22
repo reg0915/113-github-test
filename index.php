@@ -11,7 +11,7 @@ $price=100;
 echo $price;
 
 echo"<br>";
-$define("pi",3.1415);
+// $define("pi",3.1415);
 
 
 echo '<br>';
@@ -26,7 +26,7 @@ $num=rand(1,46).",".rand(1,56);
 echo $num;
 
 echo "<br>";
-echo"圓周率是".pi;
+// echo"圓周率是".pi;
 
 
 

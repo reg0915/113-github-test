@@ -151,7 +151,7 @@ for($j=0;$j<=9;$j++){
             echo $i;
         }else if($i==0){
             echo $j;
-        }else{
+        }else if($i<$j){
             echo ($j*$i);
         }
 
